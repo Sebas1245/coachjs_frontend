@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/coachjs_frontend/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/coachjs_frontend/static/js/main.f5810f19.chunk.js",
+    "main.js.map": "/coachjs_frontend/static/js/main.f5810f19.chunk.js.map",
+    "runtime-main.js": "/coachjs_frontend/static/js/runtime-main.4a6e226d.js",
+    "runtime-main.js.map": "/coachjs_frontend/static/js/runtime-main.4a6e226d.js.map",
+    "static/js/2.52fc40b1.chunk.js": "/coachjs_frontend/static/js/2.52fc40b1.chunk.js",
+    "static/js/2.52fc40b1.chunk.js.map": "/coachjs_frontend/static/js/2.52fc40b1.chunk.js.map",
+    "index.html": "/coachjs_frontend/index.html",
+    "precache-manifest.b3c15808f80503f95679df6c66dabd64.js": "/coachjs_frontend/precache-manifest.b3c15808f80503f95679df6c66dabd64.js",
+    "service-worker.js": "/coachjs_frontend/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/coachjs_frontend/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.52fc40b1.chunk.js.LICENSE.txt": "/coachjs_frontend/static/js/2.52fc40b1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a6e226d.js",
+    "static/js/2.52fc40b1.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.f5810f19.chunk.js"
+  ]
+}
