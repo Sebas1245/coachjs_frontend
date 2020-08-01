@@ -37,18 +37,18 @@ function Trainings() {
         transform: "translate(-50%,-50%)"
     };
     const items = trainings.map( training => {
-        if(training.id % 2 == 0) {
+        if(training.id % 2 === 0) {
             return( 
-                <Row className="align-items-center justify-content-center" noGutters="true" key={training.id}>
+                <Row className="align-items-center justify-content-center h-100" noGutters="true" key={training.id}>
                     <Col xs={6} className="px-5">
                         <div className="text-center">
-                            <h4 className="text-uppercase">{training.title}</h4>
-                            <p className="lead">{training.description}</p> 
+                            <h4 style={{fontSize: '1.8vw'}} className="text-uppercase">{training.title}</h4>
+                            <p style={{fontSize: '1.5vw'}} className="lead">{training.description}</p> 
                         </div>
                     </Col>
                     <Col xs={6}>
                         <Parallax bgImage={training.img} strength={250}>
-                            <div style={{height: 500}} >
+                            <div style={{height: '500px'}} >
                                 <div style={{insideStyles}}> </div>
                             </div>
                         </Parallax>
@@ -57,18 +57,18 @@ function Trainings() {
             )
         } else {
             return(
-                <Row className="align-items-center justify-content-center" noGutters="true" key={training.id}>
+                <Row className="align-items-center justify-content-center h-100" noGutters="true" key={training.id}>
                     <Col xs={6}>
                         <Parallax bgImage={training.img} strength={250}>
-                            <div style={{height: 600}} >
+                            <div style={{height: '500px'}} >
                                 <div style={{insideStyles}}> </div>
                             </div>
                         </Parallax>
                     </Col>
                     <Col xs={6} className="px-5">
                         <div className="text-center">
-                            <h4 className="text-uppercase">{training.title}</h4>
-                            <p className="lead">{training.description}</p> 
+                            <h4 style={{fontSize: '2vw'}} className="text-uppercase">{training.title}</h4>
+                            <p style={{fontSize: '1.5vw'}} className="lead">{training.description}</p> 
                         </div>
                     </Col>
                 </Row>
