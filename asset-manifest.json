@@ -1,27 +1,31 @@
 {
   "files": {
-    "main.css": "/coachjs_frontend/static/css/main.0287c26f.chunk.css",
-    "main.js": "/coachjs_frontend/static/js/main.739d6bf3.chunk.js",
-    "main.js.map": "/coachjs_frontend/static/js/main.739d6bf3.chunk.js.map",
+    "main.css": "/coachjs_frontend/static/css/main.7bccb731.chunk.css",
+    "main.js": "/coachjs_frontend/static/js/main.c4fb792c.chunk.js",
+    "main.js.map": "/coachjs_frontend/static/js/main.c4fb792c.chunk.js.map",
     "runtime-main.js": "/coachjs_frontend/static/js/runtime-main.4a6e226d.js",
     "runtime-main.js.map": "/coachjs_frontend/static/js/runtime-main.4a6e226d.js.map",
-    "static/js/2.e9fdd51d.chunk.js": "/coachjs_frontend/static/js/2.e9fdd51d.chunk.js",
-    "static/js/2.e9fdd51d.chunk.js.map": "/coachjs_frontend/static/js/2.e9fdd51d.chunk.js.map",
+    "static/js/2.026a1892.chunk.js": "/coachjs_frontend/static/js/2.026a1892.chunk.js",
+    "static/js/2.026a1892.chunk.js.map": "/coachjs_frontend/static/js/2.026a1892.chunk.js.map",
     "index.html": "/coachjs_frontend/index.html",
-    "precache-manifest.864be3a22d2b9364c1646e5add08da48.js": "/coachjs_frontend/precache-manifest.864be3a22d2b9364c1646e5add08da48.js",
+    "precache-manifest.c022749113897922e7f6a16e081d0b9a.js": "/coachjs_frontend/precache-manifest.c022749113897922e7f6a16e081d0b9a.js",
     "service-worker.js": "/coachjs_frontend/service-worker.js",
-    "static/css/main.0287c26f.chunk.css.map": "/coachjs_frontend/static/css/main.0287c26f.chunk.css.map",
-    "static/js/2.e9fdd51d.chunk.js.LICENSE.txt": "/coachjs_frontend/static/js/2.e9fdd51d.chunk.js.LICENSE.txt",
+    "static/css/main.7bccb731.chunk.css.map": "/coachjs_frontend/static/css/main.7bccb731.chunk.css.map",
+    "static/js/2.026a1892.chunk.js.LICENSE.txt": "/coachjs_frontend/static/js/2.026a1892.chunk.js.LICENSE.txt",
     "static/media/adp.png": "/coachjs_frontend/static/media/adp.acf4e5e3.png",
+    "static/media/caterineCordoba.jpg": "/coachjs_frontend/static/media/caterineCordoba.f9971ad0.jpg",
+    "static/media/danyRamirez.jpg": "/coachjs_frontend/static/media/danyRamirez.a03f53da.jpg",
     "static/media/expirituality.png": "/coachjs_frontend/static/media/expirituality.72b735c8.png",
+    "static/media/franyAlarcon.jpg": "/coachjs_frontend/static/media/franyAlarcon.ffe42f36.jpg",
+    "static/media/huberEsmer.jpg": "/coachjs_frontend/static/media/huberEsmer.f49cbdad.jpg",
     "static/media/jtImg.png": "/coachjs_frontend/static/media/jtImg.b4f3bb66.png",
     "static/media/logo.png": "/coachjs_frontend/static/media/logo.b81e5ced.png",
     "static/media/visiones.png": "/coachjs_frontend/static/media/visiones.7b8b5868.png"
   },
   "entrypoints": [
     "static/js/runtime-main.4a6e226d.js",
-    "static/js/2.e9fdd51d.chunk.js",
-    "static/css/main.0287c26f.chunk.css",
-    "static/js/main.739d6bf3.chunk.js"
+    "static/js/2.026a1892.chunk.js",
+    "static/css/main.7bccb731.chunk.css",
+    "static/js/main.c4fb792c.chunk.js"
   ]
 }
