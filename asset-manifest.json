@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/coachjs_frontend/static/css/main.7bccb731.chunk.css",
-    "main.js": "/coachjs_frontend/static/js/main.c4fb792c.chunk.js",
-    "main.js.map": "/coachjs_frontend/static/js/main.c4fb792c.chunk.js.map",
+    "main.js": "/coachjs_frontend/static/js/main.d834cba1.chunk.js",
+    "main.js.map": "/coachjs_frontend/static/js/main.d834cba1.chunk.js.map",
     "runtime-main.js": "/coachjs_frontend/static/js/runtime-main.4a6e226d.js",
     "runtime-main.js.map": "/coachjs_frontend/static/js/runtime-main.4a6e226d.js.map",
     "static/js/2.026a1892.chunk.js": "/coachjs_frontend/static/js/2.026a1892.chunk.js",
     "static/js/2.026a1892.chunk.js.map": "/coachjs_frontend/static/js/2.026a1892.chunk.js.map",
     "index.html": "/coachjs_frontend/index.html",
-    "precache-manifest.c022749113897922e7f6a16e081d0b9a.js": "/coachjs_frontend/precache-manifest.c022749113897922e7f6a16e081d0b9a.js",
+    "precache-manifest.a16a55e611e60f24aa8e4b5f58e57310.js": "/coachjs_frontend/precache-manifest.a16a55e611e60f24aa8e4b5f58e57310.js",
     "service-worker.js": "/coachjs_frontend/service-worker.js",
     "static/css/main.7bccb731.chunk.css.map": "/coachjs_frontend/static/css/main.7bccb731.chunk.css.map",
     "static/js/2.026a1892.chunk.js.LICENSE.txt": "/coachjs_frontend/static/js/2.026a1892.chunk.js.LICENSE.txt",
@@ -18,7 +18,7 @@
     "static/media/expirituality.png": "/coachjs_frontend/static/media/expirituality.72b735c8.png",
     "static/media/franyAlarcon.jpg": "/coachjs_frontend/static/media/franyAlarcon.ffe42f36.jpg",
     "static/media/huberEsmer.jpg": "/coachjs_frontend/static/media/huberEsmer.f49cbdad.jpg",
-    "static/media/jtImg.png": "/coachjs_frontend/static/media/jtImg.b4f3bb66.png",
+    "static/media/jose-saldana-coach3.jpg": "/coachjs_frontend/static/media/jose-saldana-coach3.28976f76.jpg",
     "static/media/logo.png": "/coachjs_frontend/static/media/logo.b81e5ced.png",
     "static/media/visiones.png": "/coachjs_frontend/static/media/visiones.7b8b5868.png"
   },
@@ -26,6 +26,6 @@
     "static/js/runtime-main.4a6e226d.js",
     "static/js/2.026a1892.chunk.js",
     "static/css/main.7bccb731.chunk.css",
-    "static/js/main.c4fb792c.chunk.js"
+    "static/js/main.d834cba1.chunk.js"
   ]
 }
