@@ -88,10 +88,10 @@ function Testimonials (){
     return(
         <Container className="pt-5" style={{backgroundColor: '#3acabb', paddingLeft: '0'}} fluid>
             <Row className="justify-content-center">
-                <h1 style={{fontSize: '5vw'}} className="text-white display-4 px-auto">Testimonios</h1>
+                <h1 style={{fontSize: '5vw'}} className="text-black display-4 px-auto">Testimonios</h1>
             </Row>
             <Row className="justify-content-center">
-                <h5 style={{fontSize: '2vw'}} className="text-white font-weight-light px-auto">Lo que piensa la gente</h5>
+                <h5 style={{fontSize: '2vw'}} className="text-black font-weight-light px-auto">Lo que piensa la gente</h5>
             </Row>
             <Row className="mt-4" style={{backgroundColor: 'black'}}>
                 <Container style={{paddingRight: '0'}} fluid>
