@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/coachjs_frontend/static/css/main.7bccb731.chunk.css",
-    "main.js": "/coachjs_frontend/static/js/main.d834cba1.chunk.js",
-    "main.js.map": "/coachjs_frontend/static/js/main.d834cba1.chunk.js.map",
+    "main.js": "/coachjs_frontend/static/js/main.ec3cf0e8.chunk.js",
+    "main.js.map": "/coachjs_frontend/static/js/main.ec3cf0e8.chunk.js.map",
     "runtime-main.js": "/coachjs_frontend/static/js/runtime-main.4a6e226d.js",
     "runtime-main.js.map": "/coachjs_frontend/static/js/runtime-main.4a6e226d.js.map",
     "static/js/2.026a1892.chunk.js": "/coachjs_frontend/static/js/2.026a1892.chunk.js",
     "static/js/2.026a1892.chunk.js.map": "/coachjs_frontend/static/js/2.026a1892.chunk.js.map",
     "index.html": "/coachjs_frontend/index.html",
-    "precache-manifest.a16a55e611e60f24aa8e4b5f58e57310.js": "/coachjs_frontend/precache-manifest.a16a55e611e60f24aa8e4b5f58e57310.js",
+    "precache-manifest.2c351cd8ac5230d81029e4de063f10e4.js": "/coachjs_frontend/precache-manifest.2c351cd8ac5230d81029e4de063f10e4.js",
     "service-worker.js": "/coachjs_frontend/service-worker.js",
     "static/css/main.7bccb731.chunk.css.map": "/coachjs_frontend/static/css/main.7bccb731.chunk.css.map",
     "static/js/2.026a1892.chunk.js.LICENSE.txt": "/coachjs_frontend/static/js/2.026a1892.chunk.js.LICENSE.txt",
@@ -26,6 +26,6 @@
     "static/js/runtime-main.4a6e226d.js",
     "static/js/2.026a1892.chunk.js",
     "static/css/main.7bccb731.chunk.css",
-    "static/js/main.d834cba1.chunk.js"
+    "static/js/main.ec3cf0e8.chunk.js"
   ]
 }

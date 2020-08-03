@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "87be67e507ebdca40af5227b8fd5b174",
+    "revision": "232ecacbf311c964cdac1a03c6333faf",
     "url": "/coachjs_frontend/index.html"
   },
   {
-    "revision": "0cd8d9482b39e6763c75",
+    "revision": "b1cc1c330e9b5cfb4749",
     "url": "/coachjs_frontend/static/css/main.7bccb731.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/coachjs_frontend/static/js/2.026a1892.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0cd8d9482b39e6763c75",
-    "url": "/coachjs_frontend/static/js/main.d834cba1.chunk.js"
+    "revision": "b1cc1c330e9b5cfb4749",
+    "url": "/coachjs_frontend/static/js/main.ec3cf0e8.chunk.js"
   },
   {
     "revision": "3eadfa8138101ac02ce8",
