@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/coachjs_frontend/static/css/main.7bccb731.chunk.css",
-    "main.js": "/coachjs_frontend/static/js/main.ec3cf0e8.chunk.js",
-    "main.js.map": "/coachjs_frontend/static/js/main.ec3cf0e8.chunk.js.map",
+    "main.css": "/coachjs_frontend/static/css/main.1406b313.chunk.css",
+    "main.js": "/coachjs_frontend/static/js/main.81529eac.chunk.js",
+    "main.js.map": "/coachjs_frontend/static/js/main.81529eac.chunk.js.map",
     "runtime-main.js": "/coachjs_frontend/static/js/runtime-main.4a6e226d.js",
     "runtime-main.js.map": "/coachjs_frontend/static/js/runtime-main.4a6e226d.js.map",
-    "static/js/2.026a1892.chunk.js": "/coachjs_frontend/static/js/2.026a1892.chunk.js",
-    "static/js/2.026a1892.chunk.js.map": "/coachjs_frontend/static/js/2.026a1892.chunk.js.map",
+    "static/js/2.b6aa4b75.chunk.js": "/coachjs_frontend/static/js/2.b6aa4b75.chunk.js",
+    "static/js/2.b6aa4b75.chunk.js.map": "/coachjs_frontend/static/js/2.b6aa4b75.chunk.js.map",
     "index.html": "/coachjs_frontend/index.html",
-    "precache-manifest.2c351cd8ac5230d81029e4de063f10e4.js": "/coachjs_frontend/precache-manifest.2c351cd8ac5230d81029e4de063f10e4.js",
+    "precache-manifest.7528dd1518cdef754fdbaf74c70f2e6c.js": "/coachjs_frontend/precache-manifest.7528dd1518cdef754fdbaf74c70f2e6c.js",
     "service-worker.js": "/coachjs_frontend/service-worker.js",
-    "static/css/main.7bccb731.chunk.css.map": "/coachjs_frontend/static/css/main.7bccb731.chunk.css.map",
-    "static/js/2.026a1892.chunk.js.LICENSE.txt": "/coachjs_frontend/static/js/2.026a1892.chunk.js.LICENSE.txt",
+    "static/css/main.1406b313.chunk.css.map": "/coachjs_frontend/static/css/main.1406b313.chunk.css.map",
+    "static/js/2.b6aa4b75.chunk.js.LICENSE.txt": "/coachjs_frontend/static/js/2.b6aa4b75.chunk.js.LICENSE.txt",
     "static/media/adp.png": "/coachjs_frontend/static/media/adp.acf4e5e3.png",
     "static/media/caterineCordoba.jpg": "/coachjs_frontend/static/media/caterineCordoba.f9971ad0.jpg",
     "static/media/danyRamirez.jpg": "/coachjs_frontend/static/media/danyRamirez.a03f53da.jpg",
@@ -24,8 +24,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.4a6e226d.js",
-    "static/js/2.026a1892.chunk.js",
-    "static/css/main.7bccb731.chunk.css",
-    "static/js/main.ec3cf0e8.chunk.js"
+    "static/js/2.b6aa4b75.chunk.js",
+    "static/css/main.1406b313.chunk.css",
+    "static/js/main.81529eac.chunk.js"
   ]
 }

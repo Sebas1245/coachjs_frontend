@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "232ecacbf311c964cdac1a03c6333faf",
+    "revision": "b98a90bd92253d861c6c72d63f495b54",
     "url": "/coachjs_frontend/index.html"
   },
   {
-    "revision": "b1cc1c330e9b5cfb4749",
-    "url": "/coachjs_frontend/static/css/main.7bccb731.chunk.css"
+    "revision": "1903c21db84049284634",
+    "url": "/coachjs_frontend/static/css/main.1406b313.chunk.css"
   },
   {
-    "revision": "4d5fff7fdf99dad210e2",
-    "url": "/coachjs_frontend/static/js/2.026a1892.chunk.js"
+    "revision": "90f66648aa98b0d70753",
+    "url": "/coachjs_frontend/static/js/2.b6aa4b75.chunk.js"
   },
   {
     "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
-    "url": "/coachjs_frontend/static/js/2.026a1892.chunk.js.LICENSE.txt"
+    "url": "/coachjs_frontend/static/js/2.b6aa4b75.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b1cc1c330e9b5cfb4749",
-    "url": "/coachjs_frontend/static/js/main.ec3cf0e8.chunk.js"
+    "revision": "1903c21db84049284634",
+    "url": "/coachjs_frontend/static/js/main.81529eac.chunk.js"
   },
   {
     "revision": "3eadfa8138101ac02ce8",
