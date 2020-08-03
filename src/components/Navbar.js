@@ -22,7 +22,7 @@ class NavBar extends Component{
                     <Nav className="ml-3">
                         <Link
                         activeClass=""
-                        to=""
+                        to="about"
                         smooth={true}
                         spy={true}
                         offset={-70}
@@ -32,10 +32,10 @@ class NavBar extends Component{
                             Sobre mí
                         </Link>
                         <Link
-                        to=""
+                        to="coaching"
                         smooth={true}
                         spy={true}
-                        offset={-90}
+                        offset={-70}
                         duration={600} 
                         href="#"
                         className="nav-link"
@@ -43,10 +43,10 @@ class NavBar extends Component{
                             Entrenamientos
                         </Link>
                         <Link
-                        to=""
+                        to="testimonials"
                         smooth={true}
                         spy={true}
-                        offset={-90}
+                        offset={-70}
                         duration={600} 
                         href="#"
                         className="nav-link"

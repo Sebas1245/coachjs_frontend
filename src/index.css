@@ -16,3 +16,8 @@ code {
   /* color: #2f3236 !important; */
   color: #3acabb !important;
 }
+
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited{
+  background-color: #3acabb !important;
+  border-color: #3acabb !important;
+}

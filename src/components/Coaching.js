@@ -4,7 +4,7 @@ import Trainings from './coaching/Trainings.js';
 
 function Coaching(){
     return(
-        <div>
+        <div id="coaching">
             <Title/>
             <Trainings />
         </div>

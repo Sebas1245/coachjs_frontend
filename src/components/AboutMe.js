@@ -7,7 +7,7 @@ import JTImg from '../assets/jose-saldana-coach3.jpg';
 
 function AboutMe() {
     return(
-        <Container fluid style={{backgroundColor: '#3acabb'}}>
+        <Container id="about" fluid style={{backgroundColor: '#3acabb'}}>
             <Row style={{height: '90vh'}} >
                 <Col xs={12} md={6} className="px-3 align-self-center">
                         <h1 style={{fontSize: '4.5vw'}} className="px-3 display-4">José Saldaña</h1>
