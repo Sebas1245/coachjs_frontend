@@ -39,16 +39,16 @@ function Trainings() {
     const items = trainings.map( training => {
         if(training.id % 2 === 0) {
             return( 
-                <Row className="align-items-center justify-content-center h-100" noGutters="true" key={training.id}>
-                    <Col xs={6} className="px-5">
+                <Row className="justify-content-center" noGutters="true" key={training.id}>
+                    <Col xs={6} className="px-5 align-self-center">
                         <div className="text-center">
                             <h4 style={{fontSize: '1.8vw'}} className="text-uppercase">{training.title}</h4>
-                            <p style={{fontSize: '1.5vw'}} className="lead">{training.description}</p> 
+                            <p style={{fontSize: '1.2vw'}} className="lead">{training.description}</p> 
                         </div>
                     </Col>
                     <Col xs={6}>
                         <Parallax bgImage={training.img} strength={250}>
-                            <div style={{height: '500px'}} >
+                            <div style={{height: '60vh'}} >
                                 <div style={{insideStyles}}> </div>
                             </div>
                         </Parallax>
@@ -57,15 +57,15 @@ function Trainings() {
             )
         } else {
             return(
-                <Row className="align-items-center justify-content-center h-100" noGutters="true" key={training.id}>
+                <Row className="justify-content-center" noGutters="true" key={training.id}>
                     <Col xs={6}>
                         <Parallax bgImage={training.img} strength={250}>
-                            <div style={{height: '500px'}} >
+                            <div style={{height: '60vh'}} >
                                 <div style={{insideStyles}}> </div>
                             </div>
                         </Parallax>
                     </Col>
-                    <Col xs={6} className="px-5">
+                    <Col xs={6} className="px-5 align-self-center">
                         <div className="text-center">
                             <h4 style={{fontSize: '2vw'}} className="text-uppercase">{training.title}</h4>
                             <p style={{fontSize: '1.5vw'}} className="lead">{training.description}</p> 

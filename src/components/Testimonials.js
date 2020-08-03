@@ -42,8 +42,8 @@ function Testimonials (){
         return testimonial.id % 2 === 0 ? (
             <Carousel.Item key={testimonial.id}>
                 <Card className="border-0" style={{backgroundColor: 'transparent'}}>
-                    <Row className="align-items-center pl-5">
-                        <Col xs={6} className="pl-5">
+                    <Row className=" pl-5 h-100">
+                        <Col xs={6} className="pl-5 align-self-center">
                             <Card.Body>
                                 <blockquote style={{fontSize: '1.3vw'}} className="blockquote text-right">
                                     <p 
@@ -57,7 +57,7 @@ function Testimonials (){
                             </Card.Body>
                         </Col> 
                         <Col xs={6}>
-                            <Card.Img fluid src={testimonial.img} />
+                            <Card.Img className="h-100 w-100" src={testimonial.img} />
                         </Col>
                    </Row>
                 </Card>
@@ -66,11 +66,11 @@ function Testimonials (){
         (
             <Carousel.Item key={testimonial.id}>
                 <Card className="border-0" style={{backgroundColor: 'transparent'}}>
-                    <Row className="align-items-center">
+                    <Row>
                         <Col xs={6}>
-                            <Card.Img fluid src={testimonial.img} />
+                            <Card.Img className="h-100 w-100" src={testimonial.img} />
                         </Col>
-                        <Col xs={6} className="pr-5">
+                        <Col xs={6} className="pr-5 align-self-center">
                             <Card.Body className="w-75">
                                 <blockquote style={{fontSize: '1.3vw'}} className="blockquote text-left">
                                     <p className="font-weight-light font-italic text-white">"{testimonial.text}"</p>
