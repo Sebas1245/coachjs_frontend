@@ -14,10 +14,10 @@ function Contact(){
                 <h5 style={{fontSize: '2vw'}} className="text-black font-italic font-weight-light px-auto">Te escucho</h5>
             </Row>
             <Row className="align-items-center justify-content-center mt-3">
-                <p style={{fontSize: '1vw'}} ><FaPhone size={18} />  +52 81 8682 7833</p>
+                <p style={{fontSize: '1vw'}} ><FaPhone className="mx-2" />  +52 81 8682 7833</p>
             </Row>
             <Row className="align-items-center justify-content-center">
-                <p style={{fontSize: '1vw'}} ><FaEnvelope size={18} />    jsal@josesaldana.me</p>
+                <p style={{fontSize: '1vw'}} ><FaEnvelope className="mx-2" />    jsal@josesaldana.me</p>
             </Row>
             <ContactForm />
         </Container>
